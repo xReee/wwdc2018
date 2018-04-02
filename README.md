@@ -1,4 +1,4 @@
-# wwdc2018
+# wwdc2018 - Accessibility for iOS Developers
 
 This is a playground about accessibility!
 Be welcome to learn why is important have a accessible app and how use and apply voice over in your projects using accessibility label!
